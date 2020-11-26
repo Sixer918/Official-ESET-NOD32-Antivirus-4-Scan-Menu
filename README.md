@@ -1,4 +1,4 @@
-# OFFICIAL ESET NOD32 Antivirus 4 Scan Menu for Linux
+# OFFICIAL ESET NOD32 Antivirus 4 Scan Menu for Linux KDE5
 OFFICIAL - ESET Nod32 Linux Antivirus 4 Context Menu fix for Dolphin on KDE 5
 
 ---
