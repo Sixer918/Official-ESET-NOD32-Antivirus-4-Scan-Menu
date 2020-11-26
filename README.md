@@ -15,3 +15,11 @@ After some search I found https://www.opendesktop.org/p/1290369/ but it seems th
 * ESET NOD32 ANTIVIRUS FOR LINUX DESKTOP 4
             
 ---
+## Installation Procedure:
+
+ 1. Clone repo to your folder `git clone https://github.com/kiraitachi/Official-ESET-NOD32-Antivirus-4-Scan-Menu.git`
+ 2. Move to **Context Menu Files** folder
+ 3. Copy .desktop files depending on your KDE3/4/5 platform to **/home/~~YOURUSER~~/.local/share/kservices5/ServiceMenus/**
+ 
+## NOTE
+I suggest only moving **eset_nod32_antivirus_options_no_scan_kde** since others will only scan but not clean. Choose whatever you need.
