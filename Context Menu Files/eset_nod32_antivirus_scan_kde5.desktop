@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/octet-stream;inode/directory;
+Actions=ESETScan
+Encoding=UTF-8
+X-KDE-Priority=TopLevel
+
+[Desktop Action ESETScan]
+Exec=/opt/eset/esets/lib/esets_scan.sh %U
+Icon=/opt/eset/esets/lib/gui/app_icon_32.png
+Name=ESET NOD32 Antivirus - Scan

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=application/octet-stream;inode/directory;
+Actions=ESETClean
+Encoding=UTF-8
+X-KDE-Priority=TopLevel
+
+[Desktop Action ESETClean]
+Exec=/opt/eset/esets/lib/esets_clean.sh %U
+Icon=/opt/eset/esets/lib/gui/app_icon_32.png
+Name=ESET NOD32 Antivirus - Clean
