@@ -1,5 +1,5 @@
 # OFFICIAL ESET NOD32 Antivirus 4 Scan Menu for Linux
-OFFICIAL - ESET Nod32 Linux Antivirus 4 Context Menu fix for Dolphin on KDE 3/4/5
+OFFICIAL - ESET Nod32 Linux Antivirus 4 Context Menu fix for Dolphin on KDE 5
 
 ---
 
@@ -19,7 +19,7 @@ After some search I found https://www.opendesktop.org/p/1290369/ but it seems th
 
  1. Clone repo to your folder `git clone https://github.com/kiraitachi/Official-ESET-NOD32-Antivirus-4-Scan-Menu.git`
  2. Move to **Context Menu Files** folder
- 3. Copy .desktop files depending on your KDE3/4/5 platform to **/home/~~YOURUSER~~/.local/share/kservices5/ServiceMenus/**
+ 3. Copy .desktop files depending on your KDE 5 platform to **/home/~~YOURUSER~~/.local/share/kservices5/ServiceMenus/**
  
 ## NOTE
 I suggest only moving **eset_nod32_antivirus_options_no_scan_kde** since others will only scan but not clean. Choose whatever you need.
