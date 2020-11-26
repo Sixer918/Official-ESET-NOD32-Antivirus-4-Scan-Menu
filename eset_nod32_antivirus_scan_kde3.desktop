@@ -1,0 +1,9 @@
+[Desktop Entry]
+ServiceTypes=all/all
+Actions=ESETScan
+Encoding=UTF-8
+
+[Desktop Action ESETScan]
+Exec=/opt/eset/esets/lib/esets_scan.sh %F
+Icon=/opt/eset/esets/lib/gui/app_icon_32.png
+Name=ESET NOD32 Antivirus - Scan

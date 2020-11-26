@@ -1,0 +1,9 @@
+[Desktop Entry]
+ServiceTypes=all/all
+Actions=ESETClean
+Encoding=UTF-8
+
+[Desktop Action ESETClean]
+Exec=/opt/eset/esets/lib/esets_clean.sh %F
+Icon=/opt/eset/esets/lib/gui/app_icon_32.png
+Name=ESET NOD32 Antivirus - Clean

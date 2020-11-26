@@ -1,0 +1,18 @@
+[Desktop Entry]
+ServiceTypes=all/all
+Actions=ESETOpt2Clean;ESETOpt2Quar;ESETOpt2Send
+Encoding=UTF-8
+X-KDE-Submenu=ESET NOD32 Antivirus - Other options
+
+[Desktop Action ESETOpt2Clean]
+Exec=/opt/eset/esets/lib/esets_clean.sh %F
+Icon=/opt/eset/esets/lib/gui/app_icon_32.png
+Name=ESET NOD32 Antivirus - Clean
+
+[Desktop Action ESETOpt2Quar]
+Exec=/opt/eset/esets/lib/esets_quar.sh %F
+Name=Quarantine files
+
+[Desktop Action ESETOpt2Send]
+Exec=/opt/eset/esets/lib/esets_send.sh %F
+Name=Submit Files to ESET
